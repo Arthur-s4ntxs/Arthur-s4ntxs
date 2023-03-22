@@ -10,6 +10,10 @@ minha vida:
 ⚡ tenho 16 anos
 👾 amo video game
 
+## ferramentas e tcnologia
+
+<i class="devicon-github-original-wordmark"></i>
+
 
 
 
