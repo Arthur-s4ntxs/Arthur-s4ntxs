@@ -12,7 +12,7 @@ minha vida:
 
 ## ferramentas e tcnologia
 
-<i class="devicon-github-original-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
 
 
