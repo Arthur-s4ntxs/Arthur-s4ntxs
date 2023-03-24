@@ -2,7 +2,7 @@
 
 
 
-🙏 estudo no sesi, senai e CNA
+🙏 sesi, senai e CNA
 
 🌎 São Paulo 
 
