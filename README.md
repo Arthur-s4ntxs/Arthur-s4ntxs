@@ -4,7 +4,7 @@
 
 🙏 estudo no sesi, senai e CNA
 
-🌎 moro em São Paulo 
+🌎 São Paulo 
 
 ⚡ tenho 16 anos
 
